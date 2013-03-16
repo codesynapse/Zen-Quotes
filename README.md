@@ -1,0 +1,7 @@
+Zen Quotes
+
+Random Zen Quote Display in WordPress Footer
+
+You can change the plugin to show the quotes in header or sidebar if you wish. 
+
+Plugin by Mahesh http://sparxengine.net
